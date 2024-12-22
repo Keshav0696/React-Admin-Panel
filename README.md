@@ -1,4 +1,4 @@
-# React-Admin-Panel Prolem Statement
+# React-Admin-Panel Requirements
 
 Designing an e-commerce admin panel requires a user-friendly layout with intuitive navigation and updated components to manage various aspects such as orders, products, users, analytics, and settings. Below is a suggested UI layout for an **E-commerce Admin Panel**:
 
